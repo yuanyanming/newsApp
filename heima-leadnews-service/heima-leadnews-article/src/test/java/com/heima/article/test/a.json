@@ -1,0 +1,26 @@
+[
+  {
+    "type": "text",
+    "value": "Java语言是美国Sun公司（Stanford University Network），在1995年推出的高级的编程语言。所谓编程语言，是计算机的语言，人们可以使用编程语言对计算机下达命令，让计算机完成人们需要的功能。\n\n2009年，Sun公司被甲骨文公司收购，所以我们现在访问oracle官网即可：https://www.oracle.com\nJava语言共同创始人之一：詹姆斯·高斯林 （James Gosling），被称为“Java之父”\n"
+  },
+  {
+    "type": "image",
+    "value": "http://192.168.200.130/group1/M00/00/00/wKjIgl9V2CqAZe18AAOoOOsvWPc041.png"
+  },
+  {
+    "type": "text",
+    "value": "Java语言发展历史\n\n- 1995年Sun公司推出Java语言\n- 1996年发布Java 1.0版本\n- 1997年发布Java 1.1版本\n- 1998年发布Java 1.2版本\n- 2000年发布Java 1.3版本\n- 2002年发布Java 1.4版本\n- 2004年发布Java 5.0版本\n- 2006年发布Java 6.0版本\n- 2009年Oracle甲骨文公司收购Sun公司\n- 2011年发布Java 7.0版本\n- 2014年发布Java 8.0版本\n- 2017年9月发布Java 9.0版本\n- 2018年3月发布Java 10.0版本\n- 2018年9月发布Java 11.0版本\n"
+  },
+  {
+    "type": "text",
+    "value": "Java 语言的三个版本\n\n- JavaSE：标准版，用于桌面应用的开发，是其他两个版本的基础。\n  - 学习JavaSE的目的, 是为了就业班要学习的JavaEE打基础.\n"
+  },
+  {
+    "type": "image",
+    "value": "http://192.168.200.130/group1/M00/00/00/wKjIgl9V2F6AdQxAAAGyaOdp4gk784.png"
+  },
+  {
+    "type": "text",
+    "value": "- JavaEE：企业版，用于Web方向的网站开发\n  - 网站：网页 + 后台服务器\n\nJava语言主要应用在互联网程序的开发领域。常见的互联网程序比如天猫、京东、物流系统、网银系统等，以及服务器后台处理大数据的存储、查询、数据挖掘等也有很多应用。\n"
+  }
+]
