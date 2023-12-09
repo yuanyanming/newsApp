@@ -31,6 +31,7 @@
 - 运用Redis缓存技术，实现热数据的计算，提升系统性能指标
 - 使用Mysql存储用户数据，以保证上层数据查询的高性能
 - 运用ES搜索技术，对冷数据、文章数据建立索引，以保证冷数据、文章查询性能
+- 运用 dokcer  容器技术，方便运行部署。
 
 github地址: https://github.com/yuanyanming/newsApp
 

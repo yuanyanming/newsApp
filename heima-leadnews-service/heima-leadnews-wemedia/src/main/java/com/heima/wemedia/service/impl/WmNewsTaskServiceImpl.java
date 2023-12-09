@@ -27,6 +27,7 @@ public class WmNewsTaskServiceImpl  implements WmNewsTaskService {
 
     @Autowired
     private WmNewsAutoScanServiceImpl wmNewsAutoScanService;
+
     /**
      * 消费延迟队列数据
      */
